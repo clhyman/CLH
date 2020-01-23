@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ccda.proof00003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">The Marrow of Tradition</title>
+                <title type="sub">Galley Proof</title>
+                <author xml:id="cwc">Chesnutt, Charles W. (Charles Waddell), 1858-1932</author>
+                <principal xml:id="spb">Browner, Stephanie P.</principal>
+                <principal xml:id="kmp">Price, Kenneth M.</principal>
+                <principal xml:id="mc">Cohen, Matt</principal>
+                <respStmt>
+                    <resp>Scanning, Optical Character Recognition, Proofreading, and Encoding</resp>
+                    <name xml:id="lkw">Laura K. Weakly</name>
+                    <name xml:id="amm">Ashley M. Morrison</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcribing, Encoding, Proofing</resp>
+                    <name xml:id="clh">Christy Hyman</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority xml:id="ccda">The Charles Chesnutt Digital Archive</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace>
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno/>
+                <availability>
+                    <p/>
+                </availability>
+            </publicationStmt>
+
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+
+                <bibl>
+                    <author>Chesnutt, Charles W. (Charles Waddell), 1858-1932</author>
+                    <title level="m" type="main">Frederick Douglass</title>
+                    <title level="m" type="sub">Galley Proof</title>
+                    <date/>
+                    <biblScope unit="page"/>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                </msDesc>
+
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <textClass>
+                
+                
+
+                <keywords scheme="original" n="category">
+                    <term>Galley Proofs</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term/>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term/>
+                </keywords>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="h01" medium="blue pencil" resp="#cwc"/>
+                <handNote xml:id="h02" medium="pencil" resp="#cwc"/>
+                <handNote xml:id="h03" medium="black pen" resp="#cwc"/>
+                <handNote xml:id="h04" medium="printed type" resp="#unk" scope="base"><persName xml:id="unk">Unknown</persName> </handNote>
+            </handNotes>
+            <particDesc>
+                <person/>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#clh" when="2019-10-19">transcribed and encoded</change>
+            
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div1 type="galley"> 
+                <div2 type="chapter">
+                    <pb facs="ccda.proof00001.001.jpg"/>
+                    
+                    
+                   <div3 type="section"> <note type="authorial" place="margin-top" hand="#h03">Chas. W. Chesnutt</note>
+                   
+                   <fw>A Douglass</fw>
+                    
+                    <p/></div3>
+                    <div3 type="section"><head>PREFACE.</head>
+                    <p>Frederick Douglass lived so long, and played so conspicuous a part on the world's stage, that it would be impossible, in a work of the size of this, to do more than touch upon the salient features of his career, to suggest the respects in which he influenced the course of <del rend="overstrike" xml:id="d001" hand="#h01">public</del><add place="margin-left" hand="#h01"><metamark function="delete" target="#d001">&#977;</metamark></add> events in his lifetime, and to epitomize for the readers of another generation the judgment of his contemporaries as to his genius and his character</p>
+                        
+                        <p>Douglass's fame as an orator has long been secure. His position as the champion of an oppressed race, and at the same time an example of its possibilities, was, in his own generation, as picturesque as it was unique<subst hand="#h03"><del rend="overstrike">,</del><add place="margin-left" rend="marked"/></subst> and <add place="inline" hand="#h03"><metamark function="add" target="#a001"/></add><add place="margin-left" rend="marked" hand="#h03" xml:id="a001">his life</add> may serve for all time as an <subst hand="#h03"><del rend="overstrike">illustration of what sheer manhood can accomplish under circumstances the most adverse</del><add place="margin-right" rend="marked">incentive to aspiring souls who would <subst><del rend="overstrike">rise above untoward circumstances</del><add place="margin-right" rend="marked">fight the battles and win the love of mankind.</add></subst></add></subst></p>
+                        <p>The average American of today who sees, when his attention is called to it, and deplores, if he be a thoughtful and just man, the deep undertow of race prejudice that retards the progress of the colored people of our own generation, cannot, except by reading the <add place="margin-left" rend="marked" hand="#h03" xml:id="a001">painful</add> records of the past, conceive of the mental and spiritual darkness to which slavery, as the inexorable condition of its existence, condemned its victims and, in a less measure, their oppressors, or of the blank wall of proscription and scorn by which free people of color were shut up in a moral and social Ghetto, the gates of which have yet not been entirely torn down. </p>
+                        <p>From this night of slavery Douglass emerged, passed through the limbo of prejudice <subst><del rend="overstrike">that</del><add place="margin-left" rend="marked">which</add></subst>he encountered as a freeman, and took his place in history. "As few of the world's great men have ever had so checkered and diversified a career," says Henry Wilson, "so it may at least be plausibly claimed that no man represent in himself more conflicting ideas and interests. His life is, in itself, an epic which finds few to equal it in the realms of either romance or reality." It was, after all, no misfortune for humanity that Frederick Douglass fell the iron hand of slavery, for his genius <subst><del rend="overstrike">forged</del><add place="margin-left" rend="marked">changed</add></subst> the drawbacks of color and condition into <del rend="overstrike">the weapons with which he fought race's battles, and made of them the</del> levers by which he raised himself and his people. 
+                        </p> 
+                        <p>The materials for this work have been near at hand, though there is a vast amount <subst><del rend="overstrike">that</del><add place="margin-left" rend="marked">of which</add></subst> lack of space must prevent the use <del rend="overstrike" xml:id="d001" hand="#h03">of</del><add place="margin-left" hand="#h03"><metamark function="delete" target="#d001">&#977;</metamark></add>. Acknowledgment is here made to members of the Douglass family for aid in securing the photograph from which the frontispiece is reproduced.</p>
+                        <p>The more the writer has studied the records of Douglass's life, the more it has appealed to his imagination and his heart. He can claim no special qualification for this task, unless perhaps it be a profound and in some degree a personal sympathy with every step of Douglass's upward career. Belonging to a later generation, he was only privileged to see the man and hear the orator after his life work was substantially completed, but often enought then to appreciate something of the <add place="margin-left" rend="marked" hand="#h03" xml:id="a001">strengthened</add> eloquence <del rend="overstrike" xml:id="d001" hand="#h03">and personal charisma</del><add place="margin-left" hand="#h03"><metamark function="delete" target="#d001">&#977;</metamark></add> by which he impressed his contemporaries. If by this brief sketch the writer can revive among readers of another generation a tithe of the interest that Douglass created for himself when he led the forlorn hope of his race for freedom and opportunity, his labor will be amply repaid.</p>
+                        <p>CHARLES W. CHESNUTT.</p>
+                        <p>Cleveland, October, 1899</p>
+                       
+                            <list>
+               
+                            <head>CHRONOLOGY.</head>
+                         <head>1817</head>
+                                <item>Frederick Douglass was born at Tuckahoe, near Easton, Talbot, Maryland</item>
+                                
+                                <item rend="center
+                                    ">1825</item>
+                                
+                                
+                                
+                                
+                         <label>Frederick Douglass was born at Tuckahoe, near Easton, Talbot, Maryland</label>
+                         <label>1825</label>
+                         Was sent to Baltimore to live with a relative of his master.
+                         March. Was taken to St. Michael's, Maryland, to live again with his master.
+                         <label>1834</label>
+                         January. Was sent to live with Edward Covey, slave-breaker, with whom he spent
+                         <label>1835-36</label>
+                         Hired to William Freeland. Made an unsuccessful escape from slavery. Was sent to Baltimore to learn the shipcaulker's trade
+                         <label>1838</label>
+                         May. Hired his own time and worked his trade
+                         September 3. Escaped from slavery and went to New York City. Married Miss Anna Murray. Went to New Bedford, Massachusetts. Assumed the name of "Douglass."
+                         <label>1841</label>
+                         Attended anti-slavery convention at New Bedford and addressed the meeting. Was employed as agent of the Massachu-
+                        </head>
+                           </list> 
+                    
+                   <pb/>
+                    </div3>
+                    <head>B Douglass</head>
+                    <p>etts Anti-slavery Society.</p>
+                        <label>1842</label>
+                    Took part in Rhode Island campaign against the Dorr constitution. Lectured on slavery. Moved to Lynn, Massachusetts.
+                    <label>1843</label>
+                    Took part in the famous "One Hundred Conventions" of the New England Anti-slavery Society
+                    <label>1844</label>
+                    Lectured with Pillsbury, Foster, and others.
+                    <label>1845</label>
+                    Published <add hi="rend" italics>Frederick Douglass's Narrative</add>
+                    <label>1845-46</label>
+                    Visied Great Britain and Ireland. Remained in Europe two years, lecturing on slavery and other subjects. Was presented by English friends with money to purchase his freedom and to establish a newspaper.
+                    <label>1847</label>
+                    Returned to the United States.
+                    Moved with his family to Rochester, New York. Estabished the <add hi="rend" italics>North Star</add>, subsequently renamed <add hi="rend" italics>Frederick Douglass's Paper</add>. Visited John                      Brown at Springfield Massachusetts.
+                    <label>1848</label>
+                    Lectured on slavery and woman suffrage.
+                    <label>1849</label>
+                    Edited newspaper. Lectured against slavery. Assisted the escape of fugitive slaves.
+                    <label>1850</label>
+                    May 7. Attended meeting of Antislavery Society at New York City. Running debate with Captain Rynders.
+                    <label>1852</label>
+                    Supported the Free Soil party. Elected delegate <subst><del rend="overstrike">for</del><add place="margin-right" rend="marked">from</add></subst> Rochester to Free Soil convention at Pittsburg,                     Pennsylvania. Supported John P. Hale for the Presidency.
+                    <label>1853</label>
+                    Visited Harriet Beecher Stowe at Andover, Massachusetts, with reference to industrial school for colored youth.
+                    <label>1854</label>
+                    Opposed repeal of Missouri Compromise.June 12. Delivered commencement address at Western Reserve College, Hudson, Ohio.
+                    <label>1855</label>
+                    Published <add hi="rend" italics>My Bondage and my Freedom</add>. <add hi="rend" italics>March</add>. Addressed the New York legislature.
+                    <label>1856</label>
+                    Supported Fremont, candidate of the Republican party.
+                    <label>1858</label>
+                    Established Douglass/s Monthly.
+                    Entertained John Brown at Rochester.
+                    <label>1859</label>
+                    August 20. Visited John Brown at Chambersburg, Pennsylvania. 
+                    May 12. Went to Canada to avoid arrest for alleged complicity in the John Brown raid.
+                    November 12. Sailed from Quebec for England.
+                    Lectured and spoke in England and Scotland for six months.
+                    <label>1860</label>
+                    Returned to the United States. Supported Lincoln for the Presidency.
+                    <label>1862</label>
+                    Lectured and spoke in favor of the war and against slavery
+                    <label>1863</label>
+                    Assisted in recruiting Fifty-fourth and Fifty-fifth Massachusetts colored regiments.
+                    Invited to visit President Lincoln
+                    <label>1864</label>
+                    Supported Lincoln for re-election.
+                   <label>1866</label>
+                    Was active in procuring the franchise for the freedmen.
+                    September. Elected delegate from Rochester to National Loyalists' Convention at Philadelphia.
+                    <label>1869</label>
+                    Moved to Washington, District of Columbia
+                    Established the New National Era.
+                    <label>1870</label>
+                    Appointed secretary of the Santo Domingo Commission by President Grant.
+                    <label>1872</label>
+                    Appointed councillor of the District of Councillor of the District of Columbia.
+                    Elected presidential elector of the State of New York, and chosen by the electoral college to take the vote to Washington.
+                    <label>1873</label>
+                    Appointed Marshal of the District of Columbia by President Hayes.
+                    <label>1876</label>
+                    Delivered address at unveiling of Lincoln statue at Washington.
+                    <label>1878</label>
+                    Visited his old home in Maryland and met his old master.
+                    <label>1879</label>
+                    Bust of Douglass placed in Sibley Hall, of Rochester University. Spoke against the proposed negro exodus from the South.
+                    Spoke against the proposed negro exodus from the South.
+                    <label>1881</label>
+                    Appointed Recorder of Deeds for the 
+                    
+                   <pb/> 
+                    <div4>
+                      <item>
+                         <head>C Douglass</head> 
+                          <p>Distict of Columbia
+                              <label>1882</label>
+                              January. Published <hi rend= "italics">Life and Times of Frederick Douglass, the third and last of his autobiographies.</hi>, the third and last of his autobiographies.
+                              August 4. Mrs. Frederick Douglass died.
+                              <label>1884</label>
+                              <hi rend="italics">February</hi> 6. Attended funeral of Wendell Phillips.
+                              <hi rend="italics">February</hi> 9. Attended memorial meeting and delivered eulogy on Phillips.
+                              Married Miss Helen Pitts.
+                              <label>1886</label>
+                           <----Placeholder for Chronology------></----Placeholder>
+                             <pb/>
+                              <p> 
+                              <head>1 Douglass</head>
+                              <Head>FREDERICK DOUGLASS</Head>
+                              <head>I.</head>
+                                  <p> If it be no small task for a man of the most favored antecedents and the most fortunate surroundings to rise above mediocrity in a great nation, it is surely a more remakrable achievement for a man of the very humblest origin possible to humanity in any country in any country in any age of the world, in the face of obstacles <subst><del rend="overstrike">that seemed</del><subst> <del rend= "overstrike">apparently</del><add place="margin-right" rend="marked">seemingly</add></subst> insurmountable, to win high honors and rewards, to retain for more than a generation the respect of good men in many lands, and to be deemed worthy of enrolment among his country's great men. Such a man was Frederick Douglass, and the example of one who thus rose to eminence by sheer force of character and talents that neither slavery nor caste proscription could crush, must ever remain as a shining illustration of the essential superiority of manhood to environment. Circumstances made Frederick Douglass a slave, but they could not prevent him from becoming a freeman and a leader among mankind.</p>
+                                  <p>The<subst><del rend="overstrike">slave</del><add place="margin-left" rend="marked">early</add></subst>life of Douglass, as detailed by himself from the platform in vigorous and eloquent speech, and as recorded in the three volumes written by himself at different periods of his career, is perhaps the completest indictment of the slave system ever presented at the bar of public opinsion. Fanny Kemble's <hi rend="italics">Journal of a Residence on a Georgian Plantation,</hi> kept by her in the very year of Douglass's escape from bondage, but not published until 1863, too late to contribute anything to the downfall of slavery, is a singularly clear revelation of plantation life from the standpoint of an outsider entirely unbiassed by American prejudice. <hi rend="italics">Frederick Douglass's Narrative</hi> is the same story told from the inside. They coincide in the main facts; and in the matter of detail, like the two slightly differing views of a stereoscopic picture, they bring out into bold relief the real character of the peculiar institution. <hi rend= "italics">Uncle Tom's Cabin</hi> lent to the structure of fact the decorations of humor, a dramatic plot, and characters to whose fate the touch of creative genius gave a living interest. But, after all, it was not Uncle Tom, nor Topsy, nor Miss Ophelia, nor Eliza, nor little Eva that made the book the power it proved to stir the hearts of men, but the great underlying tragedy <subst><del rend="overstrike">that was</del><add place="margin-left" rend="marked">then already</add></subst> rapidly approaching a cloody climax.</p>
+                                  <p>Frederick Douglass was born in February, 1817, as nearly as the date could be determined in after years, when it became a matter of public interest, - at Tuckahoe, near Easton, Talbot County, on the eastern shore of Maryland, a barren and poverty-stricken district, which possess in the birth of Douglass its sole title to distinction.
+                                      
+                            
+                              
+                              
+                          
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                          </p>
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                      </item>  
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div4>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    </item>
+                    
+                        
+                        
+                        
+                        
+                    
+                    
+                    
+                    
+                    </div3>
+                    
+                </div2>
+            </div1>
+        
+                    
+                    
+        </body>
+
+    </text>
+</TEI>
